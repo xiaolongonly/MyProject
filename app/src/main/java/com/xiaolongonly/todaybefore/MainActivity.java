@@ -11,7 +11,7 @@ import com.xiaolongonly.todaybefore.utils.SimpleMenuClickListener;
  * Created by GuoXiaolong on 2016/3/17.
  */
 public class MainActivity extends ListActivity{
-    private String[] titles = new String[]{"历史上的今天", "智能机器人"};
+    private String[] titles = new String[]{"历史上的今天", "和张精明聊天"};
     private Class[] classes = new Class[]{TodayOnHistoryActivity.class, ChatRobotActivity.class};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
