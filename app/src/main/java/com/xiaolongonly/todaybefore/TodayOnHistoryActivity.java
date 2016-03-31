@@ -76,6 +76,10 @@ public class TodayOnHistoryActivity extends BaseActivity implements OnClickListe
         pullToRefreshListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                if(adapter.getCount()==position-1)
+                {
+                    return;
+                }
                 TodayOnhistoryModel todayOnhistoryModel = (TodayOnhistoryModel) adapter.getItem(position - 1);
                 if (todayOnhistoryModel == null)
                     return;

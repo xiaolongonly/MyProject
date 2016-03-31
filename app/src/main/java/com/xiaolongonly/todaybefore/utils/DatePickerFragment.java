@@ -3,12 +3,10 @@ import android.app.DatePickerDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.DatePicker;
 
 import com.u1city.module.util.ToastUtil;
 
-import java.util.Calendar;
 
 public abstract class DatePickerFragment extends DialogFragment implements
         DatePickerDialog.OnDateSetListener {

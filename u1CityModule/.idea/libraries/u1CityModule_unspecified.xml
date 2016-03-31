@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="u1CityModule-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/volley.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/achartengine-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/android-support-v4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/universal-image-loader-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/zxing-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MyApplication/u1CityModule/unspecified/jars/libs/fastjson-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
